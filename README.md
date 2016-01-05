@@ -7,7 +7,7 @@ If you found it useful, please cite the following papers:
 
 Wen Li, Li Niu, and Dong Xu, “Exploiting Privileged Information from Web Data for Image Categorization,” European Conference on Computer Vision,(ECCV), pp. 437-452, 2014.
 
-Lin Chen, Wen Li, and Dong Xu, “Recognizing RGB Images by Learning from RGB-D Data,” IEEE International Conference on Computer Vision and Patter Recognition(CVPR), pp. 1418-1425, 2014.
+Lixin Duan, Yanwu Xu, Wen Li, Li Chen, DWK Wong, and Jiang Liu, "Incorporating Privileged Genetic Information for Fundus Image Based Glaucoma Detection," MICCAI 2014, pp. 204-211. 
 
 For any question, please contact Wen Li via liwenbnu@gmail.com. 
 
