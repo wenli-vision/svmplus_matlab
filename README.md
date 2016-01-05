@@ -10,6 +10,9 @@ Wen Li, Li Niu, and Dong Xu, “Exploiting Privileged Information from Web Data 
 Lin Chen, Wen Li, and Dong Xu, “Recognizing RGB Images by Learning from RGB-D Data,” IEEE International Conference on Computer Vision and Patter Recognition(CVPR), pp. 1418-1425, 2014.
 
 For any question, please contact Wen Li via liwenbnu@gmail.com. 
-
 ------------------------
+# How to use
+Simple. Run "demo_mnist_svmplus.m", and see the results^_^.
+------------------------
+# Copyright
 Non-commercial use only. All rights reserved. 
