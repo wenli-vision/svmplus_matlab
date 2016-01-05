@@ -11,8 +11,8 @@ Lin Chen, Wen Li, and Dong Xu, “Recognizing RGB Images by Learning from RGB-D 
 
 For any question, please contact Wen Li via liwenbnu@gmail.com. 
 ------------------------
-# How to use
+How to use
 Simple. Run "demo_mnist_svmplus.m", and see the results^_^.
 ------------------------
-# Copyright
+Copyright
 Non-commercial use only. All rights reserved. 
