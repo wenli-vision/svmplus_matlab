@@ -13,8 +13,10 @@ For any question, please contact Wen Li via liwenbnu@gmail.com.
 
 ------------------------
 How to use
+
 Simple. Run "demo_mnist_svmplus.m", and see the results^_^.
 
 ------------------------
 Copyright
+
 Non-commercial use only. All rights reserved. 
