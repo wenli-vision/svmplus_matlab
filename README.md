@@ -1,7 +1,7 @@
 # svmplus_matlab
 An implementation of SVM+ with MATLAB QP solver. It has also been tested with MOSEK QP solver. 
 
-A faster implementation of kernel SVM+ based on a new SVM+ formulation (called l2-svm+) is also released. You need libsvm to run it.
+A faster implementation of kernel SVM+ based on a new SVM+ formulation is also released. You need libsvm to run it.
 
 If you feel it is useful, please cite the following papers:
 
