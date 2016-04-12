@@ -1,6 +1,5 @@
 clear; clc;
 addpath('./utils');
-addpath('./externals');
 % load data
 load('./data/mnist_plus.mat');
 
