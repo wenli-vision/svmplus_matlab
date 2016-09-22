@@ -10,6 +10,14 @@ Wen Li, Dengxin Dai, Mingkui Tan, Dong Xu, and Luc Van Gool, “Fast Algorithms 
 For any question, please contact Wen Li via liwenbnu@gmail.com. 
 
 ------------------------
+Dependencies
+
+The <a href="http://www.csie.ntu.edu.tw/~cjlin/libsvm/">libsvm</a> library is needed. I have included a compiled mex file (Windows64 version). For other platform, please 
+  * download the latest libsvm package, and run "<LIBSVM_ROOT>/matlab/make.m" to comiple the mex file compatiable to your OS. 
+  * Put the obtained mex file in the folder of libsvm+, or add the folder containing mex file to your matlab paths at the beginning of demo_mnist_svmplus.m
+<code>addpath('<LIBSVM_ROOT>/matlab/')</code>
+
+------------------------
 How to use
 
 Simple. Run "demo_mnist_svmplus.m", and see the results^_^.
